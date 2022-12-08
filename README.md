@@ -2,3 +2,4 @@
 Модульное тестирование на основе JUnit 4
 
 ![Screenshot](screenshot.png)
+![Screenshot](test.png)
